@@ -268,17 +268,6 @@ hr{
         transform: translateY(49px);
     }
     
-    .title::after {
-        content: '';
-        background: #7b1798;
-        height: 10px;
-        width: 50px;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 40px;
-        display: block;
-        transform: translateY(8px);
-    }
 }
 
 @media screen and (min-width:601px) and (max-width:1130px){
@@ -293,15 +282,4 @@ hr{
         transform: translateY(56px);
     }
     
-    .title::after {
-        content: '';
-        background: #7b1798;
-        height: 10px;
-        width: 50px;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 40px;
-        display: block;
-        transform: translateY(8px);
-    }
 }
